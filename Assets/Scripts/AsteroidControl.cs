@@ -14,6 +14,8 @@ public class AsteroidControl : MonoBehaviour
         speed = 2f;
     }
 
+
+
     // Update is called once per frame
     void Update()
     {
